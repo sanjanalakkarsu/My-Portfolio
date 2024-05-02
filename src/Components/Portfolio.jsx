@@ -31,25 +31,25 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "",
+    title: "Learn",
     description:
       "",
     url: "",
   },
   {
-    title: "",
+    title: "Code",
     description:
       "",
     url: "",
   },
   {
-    title: "",
+    title: "Explore",
     description:
       "",
     url: "",
   },
   {
-    title: "",
+    title: "Live",
     description:
       "",
     url: "",
